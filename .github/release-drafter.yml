@@ -1,0 +1,17 @@
+categories:
+  - title: '🐞 Bugs'
+    labels:
+      - 'bug'
+  - title: '🚀 Enhancements'
+    labels:
+      - 'enhancement'
+  - title: '🧰 Maintenance'
+    label:
+      - 'dependencies'
+category-template: "### $TITLE"
+template: |
+  ## What's Changed
+
+  $CHANGES
+
+  See also: [Documentation](https://swiftpackageindex.com/swift-bloc/bloc/main/documentation/bloc)
